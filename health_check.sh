@@ -119,4 +119,3 @@ if (( $(echo "$counter > 2" | bc -l) )); then
 else 
 	echo -e "Your system needs some care... :("
 fi
-# 2023241
